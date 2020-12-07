@@ -1,0 +1,9 @@
+C:\Users\Ivan\source\repos\RichTextBox Kontrola\RichTextBox Kontrola\bin\Debug\RichTextBox Kontrola.exe.config
+C:\Users\Ivan\source\repos\RichTextBox Kontrola\RichTextBox Kontrola\bin\Debug\RichTextBox Kontrola.exe
+C:\Users\Ivan\source\repos\RichTextBox Kontrola\RichTextBox Kontrola\bin\Debug\RichTextBox Kontrola.pdb
+C:\Users\Ivan\source\repos\RichTextBox Kontrola\RichTextBox Kontrola\obj\Debug\RichTextBox_Kontrola.Form1.resources
+C:\Users\Ivan\source\repos\RichTextBox Kontrola\RichTextBox Kontrola\obj\Debug\RichTextBox_Kontrola.Properties.Resources.resources
+C:\Users\Ivan\source\repos\RichTextBox Kontrola\RichTextBox Kontrola\obj\Debug\RichTextBox Kontrola.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\RichTextBox Kontrola\RichTextBox Kontrola\obj\Debug\RichTextBox Kontrola.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\RichTextBox Kontrola\RichTextBox Kontrola\obj\Debug\RichTextBox Kontrola.exe
+C:\Users\Ivan\source\repos\RichTextBox Kontrola\RichTextBox Kontrola\obj\Debug\RichTextBox Kontrola.pdb
